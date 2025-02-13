@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Test Deneme
+      İLK App
       <img src={logo} />
     </div>
   );
